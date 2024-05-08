@@ -22,8 +22,10 @@ The company wants to understand the __driving factors__ (__or driver variables__
 #### Problem Statement
 __Aim__
 - Identify patterns in data which indicate if a loan applicant is likely to default on loan repayment.<br>
+
 __Objective__
 - Based on the data available from the consumer finance company, understand the driving variables available at the time of the application and historical data to identify strong indictors of default.<br>
+
 __Approach__
 - Utilize the Exploratory Data Analysis concepts learnt to undertake portfolio and risk assessment in the banking and finance sector.<br>
 
