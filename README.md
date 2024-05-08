@@ -15,36 +15,33 @@ There are two __types of risks__ that are associated with the bank’s decision:
 -  If the applicant is __likely to repay the loan,__ then not approving the loan results in a loss of business to the company
 -  If the applicant is __not likely to repay the loan,__ i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business problem that your project is trying to solve?
-- What is the dataset that is being used?
+#### Business Objectives
+This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.<br>
+The company wants to understand the __driving factors__ (__or driver variables__) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.<br>
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+#### Problem Statement
+__Aim__
+- Identify patterns in data which indicate if a loan applicant is likely to default on loan repayment.<br>
+__Objective__
+- Based on the data available from the consumer finance company, understand the driving variables available at the time of the application and historical data to identify strong indictors of default.<br>
+__Approach__
+- Utilize the Exploratory Data Analysis concepts learnt to undertake portfolio and risk assessment in the banking and finance sector.<br>
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+It is recommended that a portfolio and risk assessment be done using the following key influencers;
+- Loan purpose
+- Annual Income
+- State the Applicant is from
+- Loan Grade and Sub-grade
+- Interest Rate
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
+- Jupyter Notebook
+- Pandas
+- Numpy
+- Seaborn
+- Pyplot
+- Warnings
+- DateTime
+- IPython Display and HTML libraries
 
